@@ -1,4 +1,4 @@
-# dio---defadio---github-primeira
+# dio-defadio-github-primeira
 Desafio de Projeto sobre Git/GitHub
 
 ## Link Úteis
